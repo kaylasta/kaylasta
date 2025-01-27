@@ -13,7 +13,7 @@
       </pre>
     </div>
     <div align="center">
-      <img src="kyubey.gif" align="center" width="100" height="100">
+      <img src="assets/kyubey.gif" align="center" width="100" height="100">
     </div>
     <br>
     <div>
