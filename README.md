@@ -1,5 +1,32 @@
 <body>
   <center>
+    <h1 align="center"> Welcome </h1>
+    <br>
+    <div align="left">
+      <pre>
+        <b>Name:</b> Oliver
+        <b>Currently:</b> Studying
+        <b>Interests:</b> Music, films, anime
+        <b>Hobbys:</b> Piano, programming, tennis
+        <b>LastFM:</b> https://www.last.fm/user/Blkberie
+        <b>RYM:</b> https://rateyourmusic.com/~Blkberie
+      </pre>
+    </div>
+    <div align="center">
+      <img src="kyubey.gif" align="center" width="100" height="100">
+    </div>
+    <br>
+    <div>
+      <p align="center">
+        <a href="www.linkedin.com/in/oliverstaddon" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+      </p>
+    </div>
+  </center>
+</body>
+
+<!--
+<body>
+  <center>
 <h1 align="center"> ~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 ~ </h1>
 <br>
 <div align="center">
@@ -73,6 +100,8 @@
 </div>
     </center>
 </body>
+
+-->
 
 <!--
 **oliverstaddon/oliverstaddon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
