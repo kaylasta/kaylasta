@@ -1,19 +1,19 @@
 <div align="center">
-<img src="assets/frieren.jpeg" width="25%" height="25%" align="right"/>
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Oliver%2C+a+student+and+wannabe+programmer+%E2%9C%A9" width="70%" />
-<br>
-  <pre>
-    💻 C languages • Games development
-    📖 BSc Comp Sci @ QMUL
-    💖 Music • Films • Anime • Games
-    🎹 Piano • Programming • Tennis
-  </pre>
-  <br>
-  <img src="assets/kyubey.gif" align="center" width="100" height="100">
-  <br> <br> <br>
-  
-[![](https://img.shields.io/badge/LinkedIn-0072b1)](https://www.linkedin.com/in/oliverstaddon/)
-[![](https://img.shields.io/badge/LastFM-db1821)](https://www.last.fm/user/Blkberie)
-[![](https://img.shields.io/badge/RateYourMusic-8bc5fa)](https://rateyourmusic.com/~Blkberie)
-[![](https://img.shields.io/badge/MyAnimeList-5b76c0)](https://myanimelist.net/profile/Blkberie)
+  <p>
+    <a href="https://oliverstaddon.github.io/">
+      <img src="assets/kyubey.gif" width="150" height="150">
+    </a>
+  </p>
+  <h1>Hihi, I'm <a href="https://oliverstaddon.github.io/">Oliver</a>!</h1>
+  <h3>Welcome to my GitHub profile</h3>
+  <p>
+    I'm currently studying at compsci @ QMUL, playing piano, and watching films :3
+  </p>
+  <p>
+    <strong><a href="https://oliverstaddon.github.io/">Website</a></strong> |
+    <strong><a href="https://www.linkedin.com/in/oliverstaddon/">LinkedIn</a></strong> |
+    <strong><a href="https://rateyourmusic.com/~Blkberie">RYM</a></strong> |
+    <strong><a href="https://www.last.fm/user/Blkberie">LastFM</strong> |
+    <strong><a href="https://myanimelist.net/profile/Blkberie">MyAnimeList</strong> |
+  </p>
 </div>
