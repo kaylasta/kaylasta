@@ -14,6 +14,6 @@
     <strong><a href="https://www.linkedin.com/in/oliverstaddon/">LinkedIn</a></strong> |
     <strong><a href="https://rateyourmusic.com/~Blkberie">RYM</a></strong> |
     <strong><a href="https://www.last.fm/user/Blkberie">LastFM</strong> |
-    <strong><a href="https://myanimelist.net/profile/Blkberie">MyAnimeList</strong> |
+    <strong><a href="https://myanimelist.net/profile/Blkberie">MyAnimeList</strong>
   </p>
 </div>
