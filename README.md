@@ -10,7 +10,7 @@
     I'm currently studying compsci @ QMUL, playing piano, and watching films :3
   </p>
   <p>
-    <strong><a href="https://oliverstaddon.github.io/">Website</a></strong> |
+    <strong><a href="https://github.com/kaylasta/">Website</a></strong> |
     <strong><a href="https://www.linkedin.com/in/oliverstaddon/">LinkedIn</a></strong> |
     <strong><a href="https://rateyourmusic.com/~Blkberie">RYM</a></strong> |
     <strong><a href="https://www.last.fm/user/Blkberie">LastFM</strong> |
