@@ -4,7 +4,7 @@
       <img src="assets/kyubey.gif" width="150" height="150">
     </a>
   </p>
-  <h1>Hihi, I'm <a href="https://oliverstaddon.github.io/">Oliver</a>!</h1>
+  <h1>Hihi, I'm <a href="https://oliverstaddon.github.io/">Kayla</a>!</h1>
   <h3>Welcome to my GitHub profile</h3>
   <p>
     I'm currently studying compsci @ QMUL, playing piano, and watching films :3
