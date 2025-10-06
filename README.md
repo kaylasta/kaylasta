@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="https://oliverstaddon.github.io/">
+    <a href="https://kaylasta.github.io/">
       <img src="assets/kyubey.gif" width="150" height="150">
     </a>
   </p>
