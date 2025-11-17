@@ -11,7 +11,7 @@
   </p>
   <p>
     <strong><a href="https://kaylasta.github.io/">Website</a></strong> |
-    <strong><a href="www.linkedin.com/in/kaylastaddon">LinkedIn</a></strong> |
+    <strong><a href="https://www.linkedin.com/in/kaylastaddon/">LinkedIn</a></strong> |
     <strong><a href="https://rateyourmusic.com/~Blkberie">RYM</a></strong> |
     <strong><a href="https://www.last.fm/user/Blkberie">LastFM</strong> |
     <strong><a href="https://myanimelist.net/profile/Blkberie">MyAnimeList</strong>
